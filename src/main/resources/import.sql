@@ -1,0 +1,1 @@
+INSERT INTO usuarios (id, nombres, apellidos, cedula, correo, telefono) values (1, 'Daniel', 'Lopez Rodriguez', '1040755872', 'daniel@correo.com', '3225338328')
